@@ -51,7 +51,7 @@ CCNA/CCNP hackathon tasks: multi-branch VLANs, OSPF/EIGRP redistribution, BGP/MP
 
 ## Open Source
 
-**[Unify AI / ivy-llc](https://github.com/unifyai/ivy)** — Integrated `jax.lax.scan` into the Ivy cross-framework ML library. Developed unit test suites for PyTorch, JAX, and TensorFlow backends. (14.2K+ ⭐)
+**[Unify AI / ivy-llc](https://github.com/unifyai/ivy)** — Integrated `jax.lax.scan` into the Ivy cross-framework ML library. Developed unit test suites for PyTorch, JAX, and TensorFlow backends. (14.2K+ ⭐) [PR #22412](https://github.com/unifyai/ivy/pull/22412)
 
 ---
 
